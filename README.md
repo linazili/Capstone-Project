@@ -1,5 +1,7 @@
 # Capstone-Project
 
+Looker Dashboard can be accessed here:
+https://lookerstudio.google.com/reporting/6c4a170b-bd87-4a06-9d75-5d7497927d95
 
 Executive Summary
 
@@ -50,4 +52,3 @@ Data contains 7 tables (1 figure), nearly 125K rows in the orders table and almo
 
 
 The dataset contains events from 2019-01-02 until current date. Company is selling clothing categories for men and women, such as: Tops, Accessories, Socks, Swim, Outwear etc. Company is getting traffic from Google Adwords, Email campaigns, Youtube, Facebook and through organic searches.
-

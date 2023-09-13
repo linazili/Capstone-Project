@@ -3,6 +3,8 @@
 Looker Dashboard can be accessed here:
 https://lookerstudio.google.com/reporting/6c4a170b-bd87-4a06-9d75-5d7497927d95
 
+Capstone project in pdf attached separately in this repository.
+
 Executive Summary
 
 TheLook is a fictitious E-Commerce clothing site developed by the Looker team and is based in the USA. The data source for this project is a public dataset found in the BigQuery platform, dataset ID: bigquery-public-data.thelook_ecommerce.
